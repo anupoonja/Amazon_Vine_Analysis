@@ -10,17 +10,26 @@ The purpose of this analysis are mentioned below:
 
 ## Results:
 
-### How many Vine reviews amd non-Vine reviews were there?
+### 1. How many Vine reviews amd non-Vine reviews were there?
+
+![Q1](https://github.com/anupoonja/Amazon_Vine_Analysis/blob/main/AddRes/Q1.png)
+
 
 Out of the total **14537** helpful reviews, **60** were Vine reviews and **14477** were non-Vine reviews.
 
-### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+### 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+![Q2](https://github.com/anupoonja/Amazon_Vine_Analysis/blob/main/AddRes/Q2.png)
+
 
 Out of the total **60** Vine reviews, **34** were 5-star reviews.
 Out of the total **14477** non-Vine reviews, **8212** were 5-star reviews.
 
 
-### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+### 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+![Q3](https://github.com/anupoonja/Amazon_Vine_Analysis/blob/main/AddRes/Q3.png)
+
 
 **56%** of Vine reviews were 5 stars. **56%** of non-Vine reviews were 5 stars.
 
